@@ -1,5 +1,8 @@
 {
   "name": "@micronn/react-ts-sample-component",
+  "publishConfig": {
+    "registry": "https://github.com/nanamicronn/react-ts-sample-component"
+  },
   "version": "0.0.1",
   "description": "ts component sample",
   "scripts": {

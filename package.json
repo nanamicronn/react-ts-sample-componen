@@ -1,9 +1,6 @@
 {
   "name": "@micronn/react-ts-sample-component",
-  "publishConfig": {
-    "registry": "https://github.com/nanamicronn/react-ts-sample-component"
-  },
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "ts component sample",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
